@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"qiniupkg.com/x/rpc.v7"
+	"github.com/qiniu/x/rpc.v7"
 
 	. "golang.org/x/net/context"
 )

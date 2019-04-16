@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"qiniupkg.com/x/reqid.v7"
+	"github.com/qiniu/x/reqid.v7"
 
 	. "golang.org/x/net/context"
 )
